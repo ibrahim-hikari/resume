@@ -1,0 +1,19 @@
+body {
+    background-color: #380d09;
+}
+
+#welcome {
+    border: solid;
+    color: #ffffff;
+    font-family: 'Righteous', cursive;
+    font-size: 9vmax;
+    display: table-cell;
+    height: 40%;
+    left: 50%;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    vertical-align: middle;
+    width: 80%;
+}
